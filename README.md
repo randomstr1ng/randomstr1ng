@@ -8,6 +8,7 @@
 
 ## Demo Environments
 - [FortiGate segmentation demo for SAPROUTER](https://github.com/randomstr1ng/saprouter-segmentation-demo)
+- [SAP Solutions Terraform modules](https://github.com/randomstr1ng/tf-sap-automation)
 
 ## other Cloud automation Projects
 - [OpenVPN Server](https://github.com/randomstr1ng/tf-openvpn-server)
